@@ -8,4 +8,4 @@ class OCHKOshNIKI
 public static void main(String[]args){
         OCHKOshNIKI people = new OCHKOshNIKI;
         System.out.println (people);
-        }
+        }//
